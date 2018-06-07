@@ -1,0 +1,2 @@
+# FZCoin
+FZCoin
